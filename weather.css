@@ -1,0 +1,27 @@
+ .first {
+	background-image: url("https://static.pexels.com/photos/8486/water-rain-raindrops-drops.jpg"
+);
+	background-repeat: no-repeat;
+}
+
+ .second {
+	background-image: url("http://www.photofurl.com/wp-content/uploads/2008/11/beautiful_mountain_wallpaper.jpg"
+);
+}
+
+ .third {
+   background-image: url("http://www.skringers.com/wp-content/uploads/Free-Desktop-Wallpaper-Beach-Scenes-Sunny-Beach.jpg"
+);
+}
+
+body {
+	color:white;
+	text-align: center;
+	font-family: helvetica, sans-serif;
+}
+
+
+.temp {
+	margin: 40px;
+	font-size: 5em;
+}
